@@ -1,6 +1,4 @@
-# PHP
-
-Aplicación PHP para acceder a una API
+# Aplicación PHP para acceder a una API
 
 Este repositorio contiene una aplicación PHP desarrollada para interactuar con una API específica. La aplicación contiene los siguientes archivos:
 
